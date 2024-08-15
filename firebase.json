@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "gdgyyc",
+    "site": "admin-gdgyycauraadmin",
     "public": "dist",
     "ignore": [
       "firebase.json",
